@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alius.
-- 👀 I’m interested in javascript.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in javascript and python.
+- 🌱 I’m currently learning javascript.
 - 📫 How to reach me barsauskasalius@gmail.com
 
 <!---
